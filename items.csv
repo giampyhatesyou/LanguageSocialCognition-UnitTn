@@ -1,0 +1,151 @@
+item_id,A_statement,notA_statement,antonym_statement,ground_truth_A,ground_truth_notA,ground_truth_antonym,antonym_type,statement_type
+1,The Earth orbits the Sun.,The Earth does not orbit the Sun.,The Sun orbits the Earth.,TRUE,FALSE,FALSE,contradictory,universal_truth
+2,Water boils at 100°C at sea level.,Water does not boil at 100°C at sea level.,Water boils at 0°C at sea level.,TRUE,FALSE,FALSE,contrary,universal_truth
+3,Photosynthesis produces oxygen.,Photosynthesis does not produce oxygen.,Photosynthesis consumes oxygen.,TRUE,FALSE,FALSE,contradictory,universal_truth
+4,The human heart has four chambers.,The human heart does not have four chambers.,The human heart has two chambers.,TRUE,FALSE,FALSE,contrary,universal_truth
+5,Mammals are warm-blooded animals.,Mammals are not warm-blooded animals.,Mammals are cold-blooded animals.,TRUE,FALSE,FALSE,contrary,universal_truth
+6,Light travels faster than sound.,Light does not travel faster than sound.,Sound travels faster than light.,TRUE,FALSE,FALSE,contradictory,universal_truth
+7,Plants convert sunlight into energy.,Plants do not convert sunlight into energy.,Plants convert moonlight into energy.,TRUE,FALSE,FALSE,contrary,universal_truth
+8,The Moon has no atmosphere.,The Moon does have an atmosphere.,The Moon has a thick atmosphere like Earth.,TRUE,FALSE,FALSE,contrary,universal_truth
+9,DNA contains genetic information.,DNA does not contain genetic information.,DNA contains nutritional information.,TRUE,FALSE,FALSE,contrary,universal_truth
+10,Gravity causes objects to fall downward.,Gravity does not cause objects to fall downward.,Gravity causes objects to float upward.,TRUE,FALSE,FALSE,contradictory,universal_truth
+11,The Amazon is the largest rainforest.,The Amazon is not the largest rainforest.,The Sahara is the largest rainforest.,TRUE,FALSE,FALSE,contrary,universal_truth
+12,Human blood is red due to hemoglobin.,Human blood is not red due to hemoglobin.,Human blood is blue due to hemoglobin.,TRUE,FALSE,FALSE,contrary,universal_truth
+13,The Pacific Ocean is the largest ocean.,The Pacific Ocean is not the largest ocean.,The Atlantic Ocean is the largest ocean.,TRUE,FALSE,FALSE,contrary,universal_truth
+14,Birds have feathers.,Birds do not have feathers.,Birds have fur.,TRUE,FALSE,FALSE,contrary,universal_truth
+15,The Nile is the longest river.,The Nile is not the longest river.,The Mississippi is the longest river.,TRUE,FALSE,FALSE,contrary,universal_truth
+16,Metals conduct electricity.,Metals do not conduct electricity.,Metals block all electricity.,TRUE,FALSE,FALSE,contradictory,universal_truth
+17,The human skeleton has 206 bones.,The human skeleton does not have 206 bones.,The human skeleton has 300 bones.,TRUE,FALSE,FALSE,contrary,universal_truth
+18,Water expands when it freezes.,Water does not expand when it freezes.,Water contracts when it freezes.,TRUE,FALSE,FALSE,contrary,universal_truth
+19,The Sun is a star.,The Sun is not a star.,The Sun is a planet.,TRUE,FALSE,FALSE,contrary,universal_truth
+20,Insects have six legs.,Insects do not have six legs.,Insects have eight legs.,TRUE,FALSE,FALSE,contrary,universal_truth
+21,Mount Everest is the highest mountain.,Mount Everest is not the highest mountain.,Mount Kilimanjaro is the highest mountain.,TRUE,FALSE,FALSE,contrary,universal_truth
+22,Most plants need sunlight to grow.,Most plants do not need sunlight to grow.,Most plants need darkness to grow.,TRUE,FALSE,FALSE,contrary,universal_truth
+23,The human brain controls thinking.,The human brain does not control thinking.,The human heart controls thinking.,TRUE,FALSE,FALSE,contrary,universal_truth
+24,Glass is transparent to visible light.,Glass is not transparent to visible light.,Glass is opaque to visible light.,TRUE,FALSE,FALSE,contradictory,universal_truth
+25,Whales are mammals not fish.,Whales are not mammals they are fish.,Whales are reptiles not mammals.,TRUE,FALSE,FALSE,contrary,universal_truth
+26,The human body has five senses.,The human body does not have five senses.,The human body has three senses.,TRUE,FALSE,FALSE,contrary,universal_truth
+27,Chlorophyll makes plants green.,Chlorophyll does not make plants green.,Chlorophyll makes plants red.,TRUE,FALSE,FALSE,contrary,universal_truth
+28,The Earth rotates on its axis.,The Earth does not rotate on its axis.,The Earth remains stationary in space.,TRUE,FALSE,FALSE,contradictory,universal_truth
+29,Dinosaurs were reptiles.,Dinosaurs were not reptiles.,Dinosaurs were mammals.,TRUE,FALSE,FALSE,contrary,universal_truth
+30,Sound needs a medium to travel.,Sound does not need a medium to travel.,Sound travels fastest in a vacuum.,TRUE,FALSE,FALSE,contradictory,universal_truth
+31,The human liver filters blood.,The human liver does not filter blood.,The human kidneys filter all blood without the liver.,TRUE,FALSE,FALSE,contrary,universal_truth
+32,Gold is a metal.,Gold is not a metal.,Gold is a type of wood.,TRUE,FALSE,FALSE,contrary,universal_truth
+33,Bacteria are single-celled organisms.,Bacteria are not single-celled organisms.,Bacteria are multi-celled organisms.,TRUE,FALSE,FALSE,contrary,universal_truth
+34,The human eye can see colors.,The human eye cannot see colors.,The human eye sees only in black and white.,TRUE,FALSE,FALSE,contrary,universal_truth
+35,Oxygen is essential for human life.,Oxygen is not essential for human life.,Nitrogen is essential for human life instead of oxygen.,TRUE,FALSE,FALSE,contrary,universal_truth
+36,The Earth's core is very hot.,The Earth's core is not very hot.,The Earth's core is very cold.,TRUE,FALSE,FALSE,contradictory,universal_truth
+37,Spider webs are made of silk.,Spider webs are not made of silk.,Spider webs are made of cotton.,TRUE,FALSE,FALSE,contrary,universal_truth
+38,Planets orbit stars.,Planets do not orbit stars.,Stars orbit planets.,TRUE,FALSE,FALSE,contradictory,universal_truth
+39,Butterflies undergo metamorphosis.,Butterflies do not undergo metamorphosis.,Butterflies stay the same throughout life.,TRUE,FALSE,FALSE,contrary,universal_truth
+40,The human stomach digests food.,The human stomach does not digest food.,The human stomach stores food without digestion.,TRUE,FALSE,FALSE,contrary,universal_truth
+41,Ice floats on water.,Ice does not float on water.,Ice sinks in water.,TRUE,FALSE,FALSE,contradictory,universal_truth
+42,The human body has two lungs.,The human body does not have two lungs.,The human body has four lungs.,TRUE,FALSE,FALSE,contrary,universal_truth
+43,Fire needs oxygen to burn.,Fire does not need oxygen to burn.,Fire is extinguished by oxygen.,TRUE,FALSE,FALSE,contrary,universal_truth
+44,The Moon reflects sunlight.,The Moon does not reflect sunlight.,The Moon produces its own light.,TRUE,FALSE,FALSE,contrary,universal_truth
+45,Diamonds are made of carbon.,Diamonds are not made of carbon.,Diamonds are made of silicon.,TRUE,FALSE,FALSE,contrary,universal_truth
+46,Human babies have more bones than adults.,Human babies do not have more bones than adults.,Human babies have fewer bones than adults.,TRUE,FALSE,FALSE,contrary,universal_truth
+47,The human tongue tastes flavors.,The human tongue does not taste flavors.,The human nose tastes all flavors.,TRUE,FALSE,FALSE,contrary,universal_truth
+48,Plants take in carbon dioxide.,Plants do not take in carbon dioxide.,Plants take in oxygen for photosynthesis.,TRUE,FALSE,FALSE,contrary,universal_truth
+49,The human skeleton provides structure.,The human skeleton does not provide structure.,The human muscles provide all structure.,TRUE,FALSE,FALSE,contrary,universal_truth
+50,Water is a good solvent.,Water is not a good solvent.,Water cannot dissolve anything.,TRUE,FALSE,FALSE,contradictory,universal_truth
+51,The human ear detects sound.,The human ear does not detect sound.,The human skin detects all sound.,TRUE,FALSE,FALSE,contrary,universal_truth
+52,Bananas grow on trees.,Bananas do not grow on trees.,Bananas grow underground like potatoes.,TRUE,FALSE,FALSE,contrary,universal_truth
+53,The human nose smells odors.,The human nose does not smell odors.,The human mouth smells all odors.,TRUE,FALSE,FALSE,contrary,universal_truth
+54,Most fish breathe through gills.,Most fish do not breathe through gills.,Most fish breathe through lungs.,TRUE,FALSE,FALSE,contrary,universal_truth
+55,The human skin protects the body.,The human skin does not protect the body.,The human bones protect the body without skin.,TRUE,FALSE,FALSE,contrary,universal_truth
+56,Clouds are made of water droplets.,Clouds are not made of water droplets.,Clouds are made of cotton fibers.,TRUE,FALSE,FALSE,contrary,universal_truth
+57,The human body produces vitamin D from sunlight.,The human body does not produce vitamin D from sunlight.,The human body produces vitamin D from moonlight.,TRUE,FALSE,FALSE,contrary,universal_truth
+58,Most plants grow toward light.,Most plants do not grow toward light.,Most plants grow away from light.,TRUE,FALSE,FALSE,contrary,universal_truth
+59,The human body has hair follicles.,The human body does not have hair follicles.,The human body has feather follicles.,TRUE,FALSE,FALSE,contrary,universal_truth
+60,Stars are mostly made of hydrogen.,Stars are not mostly made of hydrogen.,Stars are mostly made of iron.,TRUE,FALSE,FALSE,contrary,universal_truth
+61,Mornings are better than evenings.,Mornings are not better than evenings.,Evenings are better than mornings.,,,,,personal_comparison
+62,Chocolate ice cream tastes better than vanilla.,Chocolate ice cream does not taste better than vanilla.,Vanilla ice cream tastes better than chocolate.,,,,,personal_comparison
+63,Dogs make better pets than cats.,Dogs do not make better pets than cats.,Cats make better pets than dogs.,,,,,personal_comparison
+64,Reading books is better than watching movies.,Reading books is not better than watching movies.,Watching movies is better than reading books.,,,,,personal_comparison
+65,Loud music is more enjoyable than quiet music.,Loud music is not more enjoyable than quiet music.,Quiet music is more enjoyable than loud music.,,,,,personal_comparison
+66,Summer is a better season than winter.,Summer is not a better season than winter.,Winter is a better season than summer.,,,,,personal_comparison
+67,Spicy food is more enjoyable than mild food.,Spicy food is not more enjoyable than mild food.,Mild food is more enjoyable than spicy food.,,,,,personal_comparison
+68,Handwritten notes are better than digital ones.,Handwritten notes are not better than digital ones.,Digital notes are better than handwritten ones.,,,,,personal_comparison
+69,Traveling alone is more relaxing.,Traveling alone is not more relaxing.,Traveling with others is more relaxing.,,,,,personal_comparison
+70,Comedies are better than action movies.,Comedies are not better than action movies.,Action movies are better than comedies.,,,,,personal_comparison
+71,Morning sunlight is more energizing than artificial light.,Morning sunlight is not more energizing than artificial light.,Artificial light is more energizing than morning sunlight.,,,,,personal_comparison
+72,Handwritten notes are easier to remember than typed ones.,Handwritten notes are not easier to remember than typed ones.,Typed notes are easier to remember than handwritten ones.,,,,,personal_comparison
+73,Home-cooked meals feel more satisfying than takeout.,Home-cooked meals do not feel more satisfying than takeout.,Takeout meals feel more satisfying than home-cooked meals.,,,,,personal_comparison
+74,Quiet environments are more conducive to focus than noisy ones.,Quiet environments are not more conducive to focus than noisy ones.,Noisy environments are more conducive to focus than quiet ones.,,,,,personal_comparison
+75,Walking short distances is more refreshing than driving.,Walking short distances is not more refreshing than driving.,Driving short distances is more refreshing than walking.,,,,,personal_comparison
+76,Clear instructions are more effective than vague directions.,Clear instructions are not more effective than vague directions.,Vague directions are more effective than clear instructions.,,,,,personal_comparison
+77,Face-to-face meetings are more productive than long email threads.,Face-to-face meetings are not more productive than long email threads.,Long email threads are more productive than face-to-face meetings.,,,,,personal_comparison
+78,Natural light is more pleasant than fluorescent lighting.,Natural light is not more pleasant than fluorescent lighting.,Fluorescent lighting is more pleasant than natural light.,,,,,personal_comparison
+79,Short breaks are more restorative than working continuously.,Short breaks are not more restorative than working continuously.,Working continuously is more restorative than short breaks.,,,,,personal_comparison
+80,Organized desks are more efficient than cluttered ones.,Organized desks are not more efficient than cluttered ones.,Cluttered desks are more efficient than organized ones.,,,,,personal_comparison
+81,Consistent sleep schedules are healthier than irregular ones.,Consistent sleep schedules are not healthier than irregular ones.,Irregular sleep schedules are healthier than consistent ones.,,,,,personal_comparison
+82,Reading printed books is more immersive than reading on screens.,Reading printed books is not more immersive than reading on screens.,Reading on screens is more immersive than reading printed books.,,,,,personal_comparison
+83,Fresh air is more invigorating than recycled indoor air.,Fresh air is not more invigorating than recycled indoor air.,Recycled indoor air is more invigorating than fresh air.,,,,,personal_comparison
+84,Simple meals are tastier than elaborate recipes.,Simple meals are not tastier than elaborate recipes.,Elaborate recipes are tastier than simple meals.,,,,,personal_comparison
+85,Comfortable chairs are better for focus than stiff seating.,Comfortable chairs are not better for focus than stiff seating.,Stiff seating is better for focus than comfortable chairs.,,,,,personal_comparison
+86,Calm voices are more effective than raised voices.,Calm voices are not more effective than raised voices.,Raised voices are more effective than calm voices.,,,,,personal_comparison
+87,Planning ahead is more reliable than last-minute decisions.,Planning ahead is not more reliable than last-minute decisions.,Last-minute decisions are more reliable than planning ahead.,,,,,personal_comparison
+88,Written instructions are clearer than verbal explanations.,Written instructions are not clearer than verbal explanations.,Verbal explanations are clearer than written instructions.,,,,,personal_comparison
+89,Small groups encourage more discussion than large crowds.,Small groups do not encourage more discussion than large crowds.,Large crowds encourage more discussion than small groups.,,,,,personal_comparison
+90,Short walks are more refreshing than sitting for long periods.,Short walks are not more refreshing than sitting for long periods.,Sitting for long periods is more refreshing than short walks.,,,,,personal_comparison
+91,Quiet rooms help people relax.,Quiet rooms do not help people relax.,Loud rooms help people relax.,,,,,personal_statement
+92,Flexible schedules improve daily life.,Flexible schedules do not improve daily life.,Rigid schedules improve daily life.,,,,,personal_statement
+93,Regular breaks prevent mental exhaustion.,Regular breaks do not prevent mental exhaustion.,Taking breaks increases mental fatigue.,,,,,personal_statement
+94,Public art makes cities feel more welcoming.,Public art does not make cities feel more welcoming.,Public art makes cities feel less welcoming.,,,,,personal_statement
+95,Hands-on practice helps people learn skills.,Hands-on practice does not help people learn skills.,Hands-on practice makes learning skills harder.,,,,,personal_statement
+96,Clear instructions reduce confusion.,Clear instructions do not reduce confusion.,Unclear instructions reduce confusion.,,,,,personal_statement
+97,Daily exercise supports physical health.,Daily exercise does not support physical health.,Daily exercise harms physical health.,,,,,personal_statement
+98,Fresh air improves concentration.,Fresh air do not improve concentration.,Fresh air reduces concentration.,,,,,personal_statement
+99,Honest feedback builds trust at work.,Honest feedback does not build trust at work.,Honest feedback erodes trust at work.,,,,,personal_statement
+100,Consistent routines reduce stress.,Consistent routines do not reduce stress.,Consistent routines increase stress.,,,,,personal_statement
+101,Background music improves mood.,Background music does not improve mood.,Silence improves mood.,,,,,personal_statement
+102,Comfortable seating increases focus.,Comfortable seating does not increase focus.,Uncomfortable seating increases focus.,,,,,personal_statement
+103,Reading before bed helps people unwind.,Reading before bed does not help people unwind.,Reading before bed makes it harder to unwind.,,,,,personal_statement
+104,Writing things down improves memory.,Writing things down does not improve memory.,Writing things down weakens memory.,,,,,personal_statement
+105,Face-to-face conversations strengthen connections.,Face-to-face conversations do not strengthen connections.,Face-to-face conversations weaken connections.,,,,,personal_statement
+106,Short walks boost energy levels.,Short walks do not boost energy levels.,Short walks drain energy levels.,,,,,personal_statement
+107,Organized spaces feel easier to use.,Organized spaces do not feel easier to use.,Disorganized spaces feel harder to use.,,,,,personal_statement
+108,Adequate sleep improves decision-making.,Adequate sleep does not improve decision-making.,Inadequate sleep improves decision-making.,,,,,personal_statement
+109,Natural light makes indoor spaces more pleasant.,Natural light does not make indoor spaces more pleasant.,Artificial light makes indoor spaces more pleasant.,,,,,personal_statement
+110,Small gestures of kindness improve social interactions.,Small gestures of kindness do not improve social interactions.,Small rude gestures improve social interactions.,,,,,personal_statement
+111,Morning sunlight helps regulate sleep patterns.,Morning sunlight does not help regulate sleep patterns.,Morning sunlight disrupts sleep patterns.,,,,,personal_statement
+112,Clear signage makes public spaces easier to navigate.,Clear signage do not make public spaces easier to navigate.,Unclear signage makes public spaces easier to navigate.,,,,,personal_statement
+113,Comfortable shoes reduce daily fatigue.,Comfortable shoes do not reduce daily fatigue.,Uncomfortable shoes reduce daily fatigue.,,,,,personal_statement
+114,Home-cooked meals encourage healthier eating habits.,Home-cooked meals do not encourage healthier eating habits.,Take-away meals encourage healthy eating habits.,,,,,personal_statement
+115,Quiet libraries support focused study.,Quiet libraries do not support focused study.,Noisy libraries support focused study.,,,,,personal_statement
+116,Short deadlines increase stress levels.,Short deadlines do not increase stress levels.,Long deadlines increase stress levels.,,,,,personal_statement
+117,Clean workspaces improve productivity.,Clean workspaces do not improve productivity.,Messy workspaces reduce productivity.,,,,,personal_statement
+118,Warm lighting creates a relaxed atmosphere.,Warm lighting does not create a relaxed atmosphere.,Cool lighting creates a relaxed atmosphere.,,,,,personal_statement
+119,Schedules help manage time effectively.,Schedules do not help manage time effectively.,Last minute decisions help manage time effectively.,,,,,personal_statement
+120,Regular hydration supports physical performance.,Regular hydration does not support physical performance.,Poor hydration supports physical performance.,,,,,personal_statement
+121,Mushrooms are poisonous.,Mushrooms are not poisonous.,Mushrooms are edible.,,,,,not_universal_truth
+122,Dogs are aggressive.,Dogs are not aggressive.,Dogs are friendly.,,,,,not_universal_truth
+123,Medicine causes side effects.,Medicine do not causes side effects.,Medicine are beneficial.,,,,,not_universal_truth
+124,Social media spreads misinformation.,Social media do not spreads misinformation.,Social media spreads true information.,,,,,not_universal_truth
+125,Technology fails.,Technology does not fail.,Technology is reliable.,,,,,not_universal_truth
+126,Pets carry diseases.,Pets do not carry diseases.,Pets are healty.,,,,,not_universal_truth
+127,Chemicals are hazardous.,Chemicals are not hazardous.,Chemicals are beneficial.,,,,,not_universal_truth
+128,Weather forecasts are inaccurate.,Weather forecasts are not inaccurate.,Weather forecasts are accurate.,,,,,not_universal_truth
+129,Online news misleads.,Online news does not mislead.,Online news inform.,,,,,not_universal_truth
+130,Volcanoes erupt.,Volcanoes do not erupt.,Volcanoes are dormant.,,,,,not_universal_truth
+131,Tornadoes occur in specific regions.,Tornadoes do not occur in specific regions.,Tornadoes are absent in specific regions,,,,,not_universal_truth
+132,Glaciers melt.,Glaciers do not melt.,Glaciers freeze.,,,,,not_universal_truth
+133,Rivers overflow.,Rivers do not overflow.,Rivers stay within their banks.,,,,,not_universal_truth
+134,Animals migrate seasonally.,Animals do not migrate seasonally.,Animals remain in the same area year-round.,,,,,not_universal_truth
+135,Birds fly south for winter.,Birds do not fly south for winter.,Birds fly north for winter.,,,,,not_universal_truth
+136,Bacteria reproduce quickly.,Bacteria do not reproduce quickly.,Bacteria reproduce slowly.,,,,,not_universal_truth
+137,Viruses spread through contact.,Viruses do not spread through contact.,Viruses spread through air.,,,,,not_universal_truth
+138,Chemicals are reactive.,Chemicals are not reactive.,Chemicals are stable.,,,,,not_universal_truth
+139,Fruits are toxic to animals.,Fruits are not toxic to animals.,Fruits are beneficial to animals.,,,,,not_universal_truth
+140,Insects are nocturnal,Insects are not nocturnal,Insects are diurnal.,,,,,not_universal_truth
+141,Leaves fall off trees in winter.,Leaves do not fall off trees in winter.,Leaves stay on trees in winter.,,,,,not_universal_truth
+142,Insects swarm.,Insects do not swarm.,Insects remain scattered.,,,,,not_universal_truth
+143,Surfaces reflect light.,Surfaces do not reflect light.,Surfaces absorb light.,,,,,not_universal_truth
+144,Bacteria are pathogenic.,Bacteria are not pathogenic.,Bacteria are beneficial.,,,,,not_universal_truth
+145,Crystals form naturally.,Crystals do not form naturally.,Crystals form artificially.,,,,,not_universal_truth
+146,Bacteria survive extreme cold.,Bacteria do not survive extreme cold.,Bacteria die in extreme cold.,,,,,not_universal_truth
+147,Animals hibernate.,Animals do not hibernate.,Animals stay active in winter.,,,,,not_universal_truth
+148,Minerals dissolve in water.,Minerals do not dissolve in water.,Minerals remain insoluble in water.,,,,,not_universal_truth
+149,Plants grow faster in sunlight.,Plants do not grow faster in sunlight.,Plants grow slower in sunlight.,,,,,not_universal_truth
+150,Flowers open at night.,Flowers do not open at night.,Flowers open in the  daylight.,,,,,not_universal_truth
